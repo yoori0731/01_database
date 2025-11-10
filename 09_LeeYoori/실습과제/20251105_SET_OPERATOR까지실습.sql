@@ -173,5 +173,4 @@ select e.EMP_NAME, e.SALARY
 from EMPLOYEE e
 where SALARY > (select avg(SALARY) from EMPLOYEE);
 
-
-select round(avg(SALARY)) from EMPLOYEE
+SHOW COLUMNS FROM NATIONAL;

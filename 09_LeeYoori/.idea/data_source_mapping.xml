@@ -12,9 +12,17 @@
     <file url="file://$PROJECT_DIR$/09_set_operators.sql" value="f8f9b0dc-3b05-485e-a4d9-61d1327c6d0b" />
     <file url="file://$PROJECT_DIR$/10_dml.sql" value="f8f9b0dc-3b05-485e-a4d9-61d1327c6d0b" />
     <file url="file://$PROJECT_DIR$/11_transaction.sql" value="f8f9b0dc-3b05-485e-a4d9-61d1327c6d0b" />
+    <file url="file://$PROJECT_DIR$/12_datatype.sql" value="f8f9b0dc-3b05-485e-a4d9-61d1327c6d0b" />
+    <file url="file://$PROJECT_DIR$/13_DDL.sql" value="f8f9b0dc-3b05-485e-a4d9-61d1327c6d0b" />
+    <file url="file://$PROJECT_DIR$/14_constraints.sql" value="f8f9b0dc-3b05-485e-a4d9-61d1327c6d0b" />
+    <file url="file://$PROJECT_DIR$/15_build_in_function.sql" value="f8f9b0dc-3b05-485e-a4d9-61d1327c6d0b" />
+    <file url="file://$PROJECT_DIR$/18_procedure.sql" value="f8f9b0dc-3b05-485e-a4d9-61d1327c6d0b" />
+    <file url="file://$PROJECT_DIR$/19_trigger.sql" value="f8f9b0dc-3b05-485e-a4d9-61d1327c6d0b" />
     <file url="file://$PROJECT_DIR$/실습과제/20251105_SET_OPERATOR까지실습.sql" value="cbf43f06-6313-4706-a221-9f73dc8bd493" />
     <file url="file://$PROJECT_DIR$/실습과제/SELECT~LIMIT_실습문제.sql" value="cbf43f06-6313-4706-a221-9f73dc8bd493" />
     <file url="file://$PROJECT_DIR$/실습과제/SELECT~WHERE_실습문제.sql" value="cbf43f06-6313-4706-a221-9f73dc8bd493" />
+    <file url="file://$PROJECT_DIR$/실습과제/employee.sql" value="f8f9b0dc-3b05-485e-a4d9-61d1327c6d0b" />
+    <file url="file://$PROJECT_DIR$/실습과제/view~trigger.sql" value="f8f9b0dc-3b05-485e-a4d9-61d1327c6d0b" />
     <file url="file://$PROJECT_DIR$/실습과제/yoori.sql" value="cbf43f06-6313-4706-a221-9f73dc8bd493" />
   </component>
 </project>
